@@ -6,6 +6,8 @@
 
 *Tools and libraries used in the project- Google Colab, Python, Core Libraries: pandas, numpy, scikit-learn, matplotlib, seaborn, plotly
 
-*Links to Colab notebooks- https://colab.research.google.com/drive/1B8ZFlVU2Thkrh01uUDvzpyp_AFUL1474?usp=sharing
+*Links to Colab notebook- https://colab.research.google.com/drive/1B8ZFlVU2Thkrh01uUDvzpyp_AFUL1474?usp=sharing
+
+*I have also uploaded the Colab notebook as both .py and .ipynb files if needed/desired.
 
 *Instructions to run analysis- Run each code block one at a time to minimize potential errors.
